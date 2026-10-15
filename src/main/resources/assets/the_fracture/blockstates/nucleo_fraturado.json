@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"the_fracture:block/nucleo_fraturado"},"facing=east":{"model":"the_fracture:block/nucleo_fraturado","y":90},"facing=south":{"model":"the_fracture:block/nucleo_fraturado","y":180},"facing=west":{"model":"the_fracture:block/nucleo_fraturado","y":270}}}
